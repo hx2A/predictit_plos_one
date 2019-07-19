@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+charts/
+data/*.csv
+data/*.p
+data/*/*.csv
+data/*/*.p
+.ipynb_checkpoints/
+.vscode/
+*.egg-info/

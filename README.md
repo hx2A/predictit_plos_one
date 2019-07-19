@@ -26,7 +26,7 @@ The authors confirm that, for approved reasons, some access restrictions apply t
 
 # Setup
 
-Create conda environment:
+Install [Anaconda](https://www.anaconda.com/distribution/#download-section) on your computer and create a Conda environment:
 
 ```
 conda env create -f environment.yml

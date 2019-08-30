@@ -62,10 +62,13 @@ jupyter notebook
 
 ```
 @article{rothschild_schmitz_2019,
-  title={Understanding Market Functionality and Trading Success},
+  author={Rothschild, D and Schmitz, J},
+  title={Understanding Market Functionality and Trading Success.},
   journal={PLoS ONE},
-  author={Rothschild, David and Schmitz, James},
-  year={2019}
+  volume={14},
+  number={8},
+  year={2019},
+  DOI={10.1371/journal.pone.0219606}
 }
 ```
 

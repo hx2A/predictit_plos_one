@@ -9,6 +9,8 @@
 
 > We examine individual-level trading data from several markets in the PredictIt exchange to determine what strategies correlate with financial success. PredictIt provides many markets with futures contracts linked to political issues, ranging from ongoing policy outcomes to political elections. High fees along with restrictions blocking automatic trading and constraining a one-to-one match between people and accounts, combine to severely limit the upside to investment returns over the fixed costs: this ensures that traders are all retail investors. We have the individual-level data from two markets: Democratic and Republican Iowa Caucuses in 2016. This data includes all orders and trades from every trader across the markets. We are able to fully reconstruct market activity and study trader behavior both within and between markets. We show that understanding how markets and trades works is more important to financial success than proxies for (1) confidence or funding (2) information or objectivity in trading. The work should be a call-to-action in favor of simplifying markets and trading for any exchange with retail investors, and for more research into effects of differential trading efficiency in all financial markets.
 
+To read the paper or download a PDF, visit the [PLoS ONE website](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219606).
+
 # License
 
 ![Creative Commons License][license] The code supporting this research paper is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][license_link].
